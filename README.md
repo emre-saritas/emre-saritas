@@ -46,6 +46,31 @@
 
 ---
 
+## 🎮 Minecraft Bukkit Plugins
+
+I also develop **custom Bukkit plugins** for Minecraft servers.  
+These projects taught me a lot about **event-driven programming, player interactions, and optimizing game mechanics**.
+
+### 🔹 [SkyDailyTasks](https://github.com/emre-saritas/SkyDailyTasks)
+A daily quest plugin for Minecraft servers.  
+- ✨ Customizable tasks & rewards  
+- ⚡ Event-driven quest progression  
+- 💾 Persistent data storage  
+
+### 🔹 [SkyData](https://github.com/emre-saritas/SkyData)
+A data sorting plugin for ShopGUIPlus.  
+- 🛒 Integrates with ShopGUIPlus  
+- 📊 Efficient data sorting & processing  
+- 🔧 Designed for high player traffic  
+
+### 🔹 [trident-guild ](https://github.com/emre-saritas/trident-guild)
+A **guild system plugin** for Minecraft Survival servers.  
+- 🏰 Guild creation & management  
+- ⚔️ PvP & alliance mechanics  
+- 🔑 Role & permission handling  
+
+---
+
 ## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/emresaritas)  
 - 📧 emres_34@hotmail.com
