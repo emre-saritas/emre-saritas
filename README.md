@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emre
 
 🚀 **Mid-Level Backend Developer**  
-- 💻 2+ years of experience in **Java & Spring Boot**  
+- 💻 3+ years of experience in **Java & Spring Boot**  
 - 🛠️ Worked on **logistics, retail & ERP integrations**  
 - 📊 Passionate about **scalable microservices, clean architecture & performance optimization**  
 - 🌍 Open for **remote & freelance opportunities**
