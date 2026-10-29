@@ -8,6 +8,7 @@ I build and operate Java/Spring Boot microservices for enterprise systems, with 
 - 🏗️ Built **10 backend services from scratch**, serving **9 enterprise customers**
 - 📊 Workloads with datasets of up to **~8.5 million records**
 - 🌍 Open to **remote / international** backend roles
+- 🌐 Portfolio: **[emresaritas.com](https://www.emresaritas.com)**
 
 ---
 
@@ -82,6 +83,7 @@ Older projects from before my professional work: custom Minecraft (Paper/Spigot)
 ---
 
 ## 🌍 Connect with me
+- 🌐 [emresaritas.com](https://www.emresaritas.com)
 - [LinkedIn](https://www.linkedin.com/in/emresaritas)
 - 📧 emres_34@hotmail.com
 - 🎓 B.Sc. Computer Engineering, Kadir Has University
