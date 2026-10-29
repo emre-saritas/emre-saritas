@@ -81,11 +81,6 @@ Older projects from before my professional work: custom Minecraft (Paper/Spigot)
 
 ---
 
-## 📈 GitHub Stats
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emre-saritas&show_icons=true&theme=radical)
-
----
-
 ## 🌍 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/emresaritas)
 - 📧 emres_34@hotmail.com
